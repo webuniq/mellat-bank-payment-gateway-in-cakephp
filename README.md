@@ -17,7 +17,7 @@ mellat bank payment gateway in cakephp
 </li>
 <h2>
 <a href="#contact" class="anchor" name="contact"><span class="octicon octicon-link"></span></a>Contact</h2>
-<p>Feel free to contact me via Twitter (<a href="https://twitter.com/webuniq">@webuniq</a>) or visit our site (<a href="http://www.webuniq.com/">webuniq.com</a>).</p>
+<p>Feel free to contact us via Twitter (<a href="https://twitter.com/webuniq">@webuniq</a>) or visit our site (<a href="http://www.webuniq.com/">webuniq.com</a>).</p>
 <h2>
 <a href="#license" class="anchor" name="license"><span class="octicon octicon-link"></span></a>License</h2>
 <p>The MellatPayment component is licensed under the GPL v2 license.</p>
